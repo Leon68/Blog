@@ -90,4 +90,4 @@
 
 [HTML相关知识](https://github.com/Leon68/Blog/issues/2)
 
-[Markdown使用简介](https://github.com/Leon68/Blog/issues/2)
+[Markdown使用简介](https://github.com/Leon68/Blog/issues/1)
