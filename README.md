@@ -1,52 +1,52 @@
-# Js常见设计模式
+Js常见设计模式
 
-# HTML5&&CSS3
+HTML5&&CSS3
 
-# npm&&webpack
+npm&&webpack
 
-# 网页布局
+网页布局
 
-# AMD&CMD&CommonJS
+AMD&CMD&CommonJS
 
-# 继承
+继承
 
-# 原型链
+原型链
 
-# this
+this
 
-# 木桶布局实现一个图片墙
+木桶布局实现一个图片墙
 
-# 对象&原型
+对象&原型
 
-# 懒加载
+懒加载
 
-# 轮播
+轮播
 
-# 懒加载
+懒加载
 
-# 跨域方式具体实现
+跨域方式具体实现
 
-# jQuery基础
+jQuery基础
  
-# jQuery
+jQuery
 
-# 跨域
+跨域
 
-# 闭包.定时器和Bom
+闭包.定时器和Bom
 
-# ajax
+ajax
 
-# 事件
+事件
 
-# DOM操作
+DOM操作
 
-# 正则表达式
+正则表达式
 
-# Date
+Date
 
-# 数组
+数组
 
-# Math
+Math
 
 字符串&&JSON
 
